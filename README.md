@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o João Victor! 👋
 
-<!--
-**JVMarquesS/JVMarquesS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia em transição para o desenvolvimento, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Cruzeiro do Sul. 
 
-Here are some ideas to get you started:
+Acredito que a tecnologia é o caminho para resolver problemas reais e estou dedicando meus dias a construir uma base sólida em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No que estou focado agora:
+- 🐍 **Python:** Estudando sintaxe, lógica e automações simples.
+- 💡 **Lógica de Programação:** Aprimorando o raciocínio para resolução de algoritmos.
+- 🎓 **Faculdade:** Absorvendo os fundamentos de sistemas e engenharia de software.
+
+### 🌱 Atualmente aprendendo:
+- Versionamento de código com Git e GitHub.
+- Fundamentos de Banco de Dados.
+
+### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/joão-victor-marques-43a911239/)
+- [E-mail](https://mail.google.com/mail/u/3/#inbox)
