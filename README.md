@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/joão-victor-marques-43a911239/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/u/3/#inbox">
+  <a href="mailto:joaomarques1415@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20João,%20vi%20o%20teu%20perfil%20no%20GitHub%20e...">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
