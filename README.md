@@ -25,7 +25,7 @@
 
 ### 📫 Redes e Contato
 <p>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-victor-marques-43a911239/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mail.google.com/mail/u/3/#inbox">
