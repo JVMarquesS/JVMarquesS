@@ -1,24 +1,34 @@
-# Olá, eu sou o João Victor! 👋
+<h1 align="center">Olá, sou o João Victor! 👋</h1>
 
-Sou estudante de tecnologia em transição para o desenvolvimento, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Cruzeiro do Sul e focado em especializar-me no ecossistema **Python**.
+<p align="center">
+  <b>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação</b><br>
+  Em transição de carreira para a tecnologia, focado em construir soluções eficientes e numa base sólida em engenharia de software.
+</p>
 
-Acredito que a tecnologia é o caminho para resolver problemas reais e estou dedicando os meus dias a construir uma base sólida em engenharia de software e desenvolvimento com Python.
+---
 
-----
+### 💻 Sobre mim
+* 🎓 Atualmente a cursar **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.
+* 🐍 Focado em aprofundar conhecimentos em **Python**, **JavaScript** e lógica de programação.
+* 🚀 Participante do **Santander Bootcamp 2026 - AI Java Back-end**.
+* 💼 Em busca da minha primeira oportunidade profissional como estagiário ou programador júnior.
 
-### 🚀 No que estou focado agora:
+### 🛠️ Tecnologias e Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-* 🐍 **Python & Lógica:** Aprofundando meus conhecimentos na linguagem através da faculdade (ADS) e de projetos práticos, consolidando fundamentos e boas práticas.
-* 🛡️ **Ampliando Conhecimentos:** Participando do bootcamp **Santander 2026 - AI Java Back-end** como um estudo complementar, utilizando a oportunidade para aprender novos paradigmas de programação e arquitetura de software.
-* 🛠️ **Versionamento:** Praticando versionamento profissional com Git/GitHub e organização de código limpo.
-
-### 🌱 Atualmente aprendendo:
-
-* Estruturas de Dados e Algoritmos com Python.
-* Programação Orientada a Objetos (POO).
-* Fundamentos de Banco de Dados e APIs.
-
-### 📫 Como me encontrar:
-
-* [LinkedIn](https://www.linkedin.com/in/joão-victor-marques-43a911239/)
-* [E-mail](https://mail.google.com/mail/u/3/#inbox)
+### 📫 Redes e Contato
+<p>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joaomarques1415@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
